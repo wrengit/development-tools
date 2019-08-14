@@ -57,6 +57,7 @@
 * HTML Entity Lookup - http://entity-lookup.leftlogic.com/
 * Creative tools - https://matthewlein.com
 * CSS tools - https://cssmatic.com
+* CSS Hover effects - https://ianlunn.github.io/Hover/
 
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
