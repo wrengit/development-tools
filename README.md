@@ -58,6 +58,7 @@
 * Creative tools - https://matthewlein.com
 * CSS tools - https://cssmatic.com
 * CSS Hover effects - https://ianlunn.github.io/Hover/
+* Bootstrap Cheat Sheet - https://hackerthemes.com/bootstrap-cheatsheet/
 
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
