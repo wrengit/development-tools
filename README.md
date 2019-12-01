@@ -59,6 +59,7 @@
 * CSS tools - https://cssmatic.com
 * CSS Hover effects - https://ianlunn.github.io/Hover/
 * Bootstrap Cheat Sheet - https://hackerthemes.com/bootstrap-cheatsheet/
+* Colour picker and gradient - https://mycolor.space
 
 ## RESPONSIVENESS:
 * Device Testing - http://www.responsinator.com
