@@ -29,6 +29,7 @@
 * Jade Converter - http://www.html2jade.org/
 
 ## IMAGE COMPRESSION:
+* CompressOrDie - https://compress-or-die.com/
 * Compress All Images - https://compressor.io/compress
 * Compress JPG - http://jpeg-optimizer.com/
 * Compress PNG - https://tinypng.com/
